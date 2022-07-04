@@ -1,7 +1,6 @@
 ## Olá seja bem-vindo(a) ao meu GitHub, meu nome é Christian, e o seu?
 - 🔭 Atualmente trabalho com infraestrutura, mas, meu grande sonho e foco é a linda programação!
 - 🌱 Estou focando meus estudos em FullStack priorizando Java, Javascript, C# .NET.
-- 💬 Siga-me em meu linkedIn https://www.linkedin.com/in/christian-z-08569a164/
 
 <div align="center">
   <a href="https://github.com/Christian-Zafalon">

@@ -14,6 +14,7 @@
   <img align="center" alt="Chris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Chris-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Chris-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Chris-DotNet" height="30" width="40" src="https://camo.githubusercontent.com/2f1508606a38136580ebde098ddf581996b38aa2c554be84d9f0fb680c2bdff1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f746e6574636f72652f646f746e6574636f72652d6f726967696e616c2e737667">
 </div>
 <br>
 <div> 

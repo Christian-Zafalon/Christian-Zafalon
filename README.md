@@ -1,5 +1,5 @@
 ## Olá seja bem-vindo(a) ao meu GitHub, meu nome é Christian, e o seu?
-- 🔭 Atualmente trabalho com infraestrutura, mas, meu grande sonho e foco é a linda programação!
+- 🔭 Estágiario Desenvolvedor Web da ComLink.
 - 🌱 Estou focando meus estudos em FullStack priorizando Java, Javascript, C# .NET.
 
 <div align="center">

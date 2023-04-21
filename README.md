@@ -1,5 +1,5 @@
 ## Olá seja bem-vindo(a) ao meu GitHub, meu nome é Christian, e o seu?
-- 🔭 Estágiario Desenvolvedor Web da ComLink.
+- 🔭 Desenvolvedor de Software web da ComLink.
 - 🌱 Estou trabalhando como FullStack priorizando C# ASP.NET API, ANGULAR, SQLSERVER.
 - 🌱 Estou focando meus estudos priorizando meu ingles e outras linguagens, como, Java, Javascript, MySql.
 <div align="center">

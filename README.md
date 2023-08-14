@@ -1,7 +1,7 @@
 ## Olá seja bem-vindo(a) ao meu GitHub, meu nome é Christian, e o seu?
 - 🔭 Desenvolvedor de Software web da ComLink.
 - 🌱 Estou trabalhando como FullStack priorizando C# ASP.NET API, ANGULAR, SQLSERVER.
-[- 🌱 Estou focando meus estudos priorizando meu ingles e outras linguagens, como, Java, Javascript, MySql.](url)
+
 <div align="center">
   <a href="https://github.com/Christian-Zafalon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christian-zafalon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

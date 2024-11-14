@@ -1,6 +1,8 @@
 ## Olá seja bem-vindo(a) ao meu GitHub, meu nome é Christian, e o seu?
-- 🔭 Desenvolvedor de Software web da ComLink.
-- 🌱 Estou trabalhando como FullStack priorizando C# ASP.NET API, ANGULAR, SQLSERVER.
+- 🔭 Engenheiro de Software Pleno na Laqus
+- 🔎 No mercado de trabalho como desenvolvedor a quase 3 anos. Evoluindo constantemente do estagio até a posição atual como pleno.
+- 🌱 Dev FullStack aprimorando sempre minhas hard skills tenho uma stack ampla que fazem parte do meu cotidiano, como Nest, C#, Python, React, Angular, Postgree.
+- 🦾 Busca de conhecimento nunca foi um problema, a força de vontade e atitude no momento de resolver um problema supera qualquer talento.
 
 <div align="center">
   <a href="https://github.com/Christian-Zafalon">
